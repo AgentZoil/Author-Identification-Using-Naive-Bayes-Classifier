@@ -48,7 +48,7 @@ Author Identification Using Naive Bayes Classifier
    python doc2unix.py
    ```
    
-4**Run the Main Script**
+4. **Run the Main Script**
 
    ```bash
    python nb_author_id.py
