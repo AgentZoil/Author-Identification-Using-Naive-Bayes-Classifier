@@ -11,7 +11,6 @@ The goal of this project is to classify emails based on their authors using the 
 - Training and testing the Naive Bayes model
 - Evaluating the performance of the model
 
-This project is part of a mini-project from the **Udacity Machine Learning course**.
 
 ---
 
